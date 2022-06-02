@@ -4,4 +4,6 @@ from .models import Bike
 # Register your models here.
 admin.site.register(Bike)
 
-# Register your models here.
+
+def __str__(self):
+      return self.name
