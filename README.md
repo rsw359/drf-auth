@@ -1,6 +1,6 @@
 # Lab 32
 
-## Project: Permissions & Postgresql
+## Project: DRF Auth
 
 ## Author: Roger Wells
 
